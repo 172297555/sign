@@ -18,3 +18,5 @@ $ yarn run build
 ## LICENSE
 
 MIT
+# sign
+电子签名组件
